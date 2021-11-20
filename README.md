@@ -29,5 +29,5 @@ Error cuadrático medio (RMSE) <= 3 días
 
 **METODOLOGÍA USADA**:
 
-Ágil: Realizado en tres springs
+_Scrum_: Realizado en tres ciclos (_sprints_)
 
