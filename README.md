@@ -25,9 +25,9 @@ Entregar al usuario un tiempo estimado de recepción de los productos/servicios 
 
 **MÉTRICA DE EVALUACIÓN**:
 
-Error cuadrático medio(RMSE) <= 3 días
+Error cuadrático medio (RMSE) <= 3 días
 
 **METODOLOGÍA USADA**:
 
-Agil: Realizado en tres springs
+Ágil: Realizado en tres springs
 
